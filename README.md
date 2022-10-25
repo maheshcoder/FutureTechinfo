@@ -32,6 +32,7 @@ This is a web based application developed for Technology Infomation related  bas
 ![About Hologram FutureTechInfo](https://user-images.githubusercontent.com/96939193/197775697-9a1a1cdd-a05f-47d4-9b6e-91f94301c6ce.png)
 ![About Meta-Verse FutureTechInfo](https://user-images.githubusercontent.com/96939193/197776010-bb9f328e-125e-4a77-b665-7b5528763c42.png)
 ![About VR FutureTechInfo](https://user-images.githubusercontent.com/96939193/197776333-ca758f72-80e5-4bbb-88f5-f0247d2a19db.png)
+![Home FutureTechInfo](https://user-images.githubusercontent.com/96939193/197814446-e5bc80c4-da26-48ef-840d-514f4661aec3.png)
 
 
 ### Privacy policy -

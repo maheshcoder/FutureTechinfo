@@ -1,0 +1,535 @@
+<!-- wp:heading -->
+<h2>What Is Augmented Reality?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>AR allows virtual objects to be overlaid in real-world environments in real time. The below image shows a man using IKEA AR App to design, improve, and live his dream home.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":132212,"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="https://www.softwaretestinghelp.com/wp-content/qa/uploads/2020/06/AR-allows-virtual-objects-to-be-overlaid-on-real-world-environments-in-real-time.-Man-using-IKEA-AR-App-to-design-improve-and-live-his-dream-home..jpg"><img src="https://www.softwaretestinghelp.com/wp-content/qa/uploads/2020/06/AR-allows-virtual-objects-to-be-overlaid-on-real-world-environments-in-real-time.-Man-using-IKEA-AR-App-to-design-improve-and-live-his-dream-home..jpg" alt="Man using IKEA AR App" class="wp-image-132212"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><em>[image<a href="https://inhabitat.com/" target="_blank" rel="noreferrer noopener">&nbsp;source</a>]</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3>Augmented Reality Definition</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Augmented Reality is defined as the technology and methods that allow overlaying of real-world objects and environments with 3D virtual objects using an AR device, and allow the virtual to interact with the real-world objects to create intended meanings.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Unlike virtual reality which tries to recreate and replace an entire real-life environment with a virtual one, augmented reality is about enriching an image of the real world with computer-generated images and digital information. It seeks to change perception by adding video, infographics, images, sound, and other details.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Inside a device that creates AR content; virtual 3D images are overlaid on real-world objects based on their geometrical relationship. The device must be able to calculate the position and orientation of objects concerning others. The combined image is projected on mobile screens, AR glasses, etc.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>On the other side, there are devices worn by the user to allow viewing of AR content by a user. Unlike&nbsp;<a href="https://www.softwaretestinghelp.com/best-virtual-reality-headset/" target="_blank" rel="noreferrer noopener">virtual reality headsets</a>&nbsp;that completely immerse users into simulated worlds, AR glasses do not. The glasses allow adding, overlaying of a virtual object onto the real-world object,<strong>&nbsp;for instance,</strong>&nbsp;placing AR markers on machines to mark repair areas.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>A user using the AR glasses can see the real object or environment around them but enriched with the virtual image.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Although the first application was in military and television since the coining of the term in 1990, AR is now applied in gaming, education and training, and other fields. Most of it is applied as AR apps that can be installed on phones and computers. Today, it is enhanced with mobile phone technology such as GPS, 3G and 4G, and remote sensing.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3>Types Of AR</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Augmented reality is of four types: Marker-less, Marker-based, Projection-based, and Superimposition-based AR. Let us see them one by one in detail.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>#1) Marker-based AR</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>A marker, which is a special visual object like a special sign or anything, and a camera are used to initiate the 3D digital animations. The system will calculate the orientation and position of the market to position the content effectively.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Marker-based AR example:&nbsp;</strong>A marker-based mobile-based AR furnishing app.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":132213,"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="https://www.softwaretestinghelp.com/wp-content/qa/uploads/2020/06/A-marker-based-mobile-based-AR-furnishing-app.png"><img src="https://www.softwaretestinghelp.com/wp-content/qa/uploads/2020/06/A-marker-based-mobile-based-AR-furnishing-app.png" alt="A marker-based mobile based AR furnishing app" class="wp-image-132213"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><em>[image&nbsp;<a href="https://www.researchgate.net/" target="_blank" rel="noreferrer noopener">source</a>]</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>#2) Marker-less AR</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>It is used in events, business, and navigation apps,&nbsp;<strong>for instance,</strong>&nbsp;the technology uses location-based information to determine what content the user gets or finds in a certain area. It may use GPS, compasses, gyroscopes, and accelerometers as can be used on mobile phones.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Recommended Reading =&gt;&nbsp;<a href="https://www.softwaretestinghelp.com/webar-vs-native-ar/" target="_blank" rel="noreferrer noopener">Comparative Study of WebAR vs Native AR</a></strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>The below example shows that a Marker-less AR does not need any physical markers to place objects in a real-world space:</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":132214,"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="https://www.softwaretestinghelp.com/wp-content/qa/uploads/2020/06/Marker-less-AR-does-not-need-any-physical-markers-to-place-objects-in-a-real-world-space.jpg"><img src="https://www.softwaretestinghelp.com/wp-content/qa/uploads/2020/06/Marker-less-AR-does-not-need-any-physical-markers-to-place-objects-in-a-real-world-space.jpg" alt="Marker-less AR example" class="wp-image-132214"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><em>[image<a href="https://newatlas.com/" target="_blank" rel="noreferrer noopener">&nbsp;source</a>]</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>#3) Project-based AR</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>This kind uses synthetic light projected on the physical surfaces to detect the interaction of the user with the surfaces. It is used on holograms like in Star Wars and other sci-fi movies.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>The below image is an example showing a sword projection in AR project-based AR headset:</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":132236,"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="https://www.softwaretestinghelp.com/wp-content/qa/uploads/2020/06/2020-06-18_11-53-34.jpg"><img src="https://www.softwaretestinghelp.com/wp-content/qa/uploads/2020/06/2020-06-18_11-53-34.jpg" alt="Project-based AR" class="wp-image-132236"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><em>[image&nbsp;<a href="https://www.theverge.com/" target="_blank" rel="noreferrer noopener">source</a>]</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>#4) Superimposition-based AR</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>In this case, the original item is replaced with an augmentation, fully or partially. The below example is allowing users to place a virtual furniture item over a room image with a scale on the IKEA Catalog app.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>IKEA is an example of superimposition-based AR:</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":132215,"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="https://www.softwaretestinghelp.com/wp-content/qa/uploads/2020/06/IKEA-Catalog-App-Is-an-example-of-Superimposition-based-AR.jpg"><img src="https://www.softwaretestinghelp.com/wp-content/qa/uploads/2020/06/IKEA-Catalog-App-Is-an-example-of-Superimposition-based-AR.jpg" alt="Superimposition-based-AR example" class="wp-image-132215"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":3} -->
+<h3>Brief History Of AR</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>1968</strong><strong>:</strong>&nbsp;Ivan Sutherland and Bob Sproull created the world’s first head-mounted display with primitive computer graphics.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong><em>The Sword of Damocles</em></strong><br><a href="https://www.softwaretestinghelp.com/wp-content/qa/uploads/2020/06/The-Sword-of-Damocles-worlds-first-headmounted-display-built-in-1968.jpg"></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>[image&nbsp;<a href="https://www.informit.com/" target="_blank" rel="noreferrer noopener">source</a>]</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>1975</strong><strong>:&nbsp;</strong>Videoplace, an AR lab, is created by Myron Krueger. The mission was to have human movement interactions with digital stuff. This technology was later employed on projectors, cameras, and on-screen silhouettes.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong><em>Myron Krueger</em></strong><br><a href="https://www.softwaretestinghelp.com/wp-content/qa/uploads/2020/06/Myron-Krueger.jpg"></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>[image&nbsp;<a href="http://thedigitalage.pbworks.com/" target="_blank" rel="noreferrer noopener">source</a>]</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>1980:</strong>&nbsp;EyeTap, the first portable computer won in front of the eye, developed by Steve Mann. EyeTap recorded images and superimposed others on it. It could be played by head movements.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong><em>Steve Mann</em></strong><br><a href="https://www.softwaretestinghelp.com/wp-content/qa/uploads/2020/06/Steve-Mann-wearing-a-Generation-4-Glass.jpg"></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>[image<a href="https://commons.wikimedia.org/" target="_blank" rel="noreferrer noopener">&nbsp;source</a>]</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>1987</strong><strong>:</strong>&nbsp;A prototype of a Heads-Up Display (HUD) was developed by Douglas George and Robert Morris. It displayed astronomical data over the real sky.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong><em>Automotive HUD</em></strong><br><a href="https://www.softwaretestinghelp.com/wp-content/qa/uploads/2020/06/Automotive-HUD.png"></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>1990</strong><strong>:</strong>&nbsp;The term augmented reality was coined by Thomas Caudell and David Mizell, researchers for the Boeing company.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong><em>David Mizell</em></strong><br><a href="https://www.softwaretestinghelp.com/wp-content/qa/uploads/2020/06/David-Mizell.jpg"></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong><em>Thomas Caudell</em></strong><br><a href="https://www.softwaretestinghelp.com/wp-content/qa/uploads/2020/06/Thomas-Caudell.jpg"></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>[image&nbsp;<a href="https://ece.unm.edu/index.html" target="_blank" rel="noreferrer noopener">source</a>]</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>1992:</strong>&nbsp;Virtual Fixtures, an AR system, was developed by the U.S. Airforce’s Louise Rosenberg.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong><em>Virtual Fixtures:</em></strong><br><a href="https://www.softwaretestinghelp.com/wp-content/qa/uploads/2020/06/Virtual-Fixtures.jpg"></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>[image&nbsp;<a href="https://en.wikipedia.org/" target="_blank" rel="noreferrer noopener">source</a>]</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>1999:</strong>&nbsp;Frank Deigado and Mike Abernathy and their team of scientists developed new navigation software that could generate runways and street data from a helicopter video.<br><strong>2000:&nbsp;</strong>ARToolKit, an open-source SDK, was developed by a Japanese scientist Hirokazu Kato. It was later adjusted to work with Adobe.<br><strong>2004:&nbsp;</strong>Outdoor helmet-mounted AR system presented by Trimble Navigation.<br><strong>2008:&nbsp;</strong>AR Travel Guide for Android mobile devices made by Wikitude.<br><strong>2013 to date:&nbsp;</strong>Google Glass with Bluetooth Internet connection, Windows HoloLens – AR goggles with sensors to display HD holograms, Niantic’s Pokemon Go game for mobile devices.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong><em>Smart Glasses:</em></strong><br><a href="https://www.softwaretestinghelp.com/wp-content/qa/uploads/2020/06/Smart-Glasses.jpg"></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>[image<a href="https://www.wikiwand.com/" target="_blank" rel="noreferrer noopener">&nbsp;source</a>]</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>How Does AR Work: Technology Behind It</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>First is the generation of images of real-world environments. Second is using technology that allows the overlaying of 3D images over the images of the real-world objects. The third is the use of technology to allow users to interact and engage with the simulated environments.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>AR can be displayed on screens, glasses, handheld devices, mobile phones, and head-mounted displays.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em><strong>Also Read =&gt;&gt;&nbsp;<a href="https://www.softwaretestinghelp.com/best-augmented-reality-glasses/" target="_blank" rel="noreferrer noopener">Best AR Smart Glasses</a></strong></em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>As such, we have mobile-based AR, head-mounted gear AR, smart glasses AR, and web-based AR. Headsets are more immersive than mobile-based and other types. Smart glasses are wearable AR devices that provide first-person views, while web-based do not require downloading of any app.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Configurations of AR glasses:</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":132224,"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="https://www.softwaretestinghelp.com/wp-content/qa/uploads/2020/06/configurations-of-AR-glasses.jpg"><img src="https://www.softwaretestinghelp.com/wp-content/qa/uploads/2020/06/configurations-of-AR-glasses.jpg" alt="configurations of AR glasses" class="wp-image-132224"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><em>[image&nbsp;<a href="https://www.sciencedirect.com/" target="_blank" rel="noreferrer noopener">source</a>]</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>It uses S.L.A.M. technology (Simultaneous Localization And Mapping), and Depth Tracking technology for calculating the distance to the object using sensor data, in addition to other technologies.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3>Augmented Reality Technology</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>AR technology allows real-time augmentation and this augmentation takes place within the context of the environment. Animations, images, videos, and 3D models may be used and users can see objects in natural and synthetic light.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Visual-based SLAM:</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":132225,"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="https://www.softwaretestinghelp.com/wp-content/qa/uploads/2020/06/SLAM.png"><img src="https://www.softwaretestinghelp.com/wp-content/qa/uploads/2020/06/SLAM.png" alt="SLAM" class="wp-image-132225"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><em>[image&nbsp;<a href="https://blog.cometlabs.io/" target="_blank" rel="noreferrer noopener">source</a>]</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Simultaneous Localization and Mapping (SLAM) technology</strong>&nbsp;is a set of algorithms that solve simultaneous localization and mapping problems.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>SLAM uses feature points to help users to understand the physical world. The technology allows apps to understand 3D objects and scenes. It allows tracking of the physical world instantly. It also allows the overlaying of digital simulations.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>SLAM uses a mobile robot such as mobile device technology to detect the surrounding environment then create a virtual map; and trace its position, direction, and path on that map. Aside from AR, it is employed on drones, aerial vehicles, unmanned vehicles, and robot cleaners,&nbsp;<strong>for instance,</strong>&nbsp;it uses artificial intelligence and machine learning to understand locations.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Feature detection and matchings are done using cameras and sensors that collect feature points from various viewpoints. The triangulation technique then infers the three-dimension location of the object.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>In AR, SLAM helps slot and blend the virtual object into a real object.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Recognition-based AR:&nbsp;</strong>It is a camera to identify markers so that an overlay is possible if there is a marker detected. The device detects and calculates the position and orientation of the marker and replaces the real world marker with its 3D version. Then it calculates the position and orientation of others. Rotating the marker rotates the entire object.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Location-based Approach.&nbsp;</strong>Here the simulations or visualizations are generated from data collected by GPS, digital compasses, accelerometers, and velocity meters. It is very common in smartphones.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Depth tracking technology:&nbsp;</strong>Depth map tracking cameras such as Microsoft Kinect generate a real-time depth map by using different technologies to calculate the real-time distance of objects in the tracking area from the camera. The technologies isolate an object from the general depth map and analyze it.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>The below example is of hand tracking using depth algorithms:</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":132240,"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="https://www.softwaretestinghelp.com/wp-content/qa/uploads/2020/06/2020-06-18_12-08-16.jpg"><img src="https://www.softwaretestinghelp.com/wp-content/qa/uploads/2020/06/2020-06-18_12-08-16.jpg" alt="Depth tracking technology" class="wp-image-132240"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><em>[image&nbsp;<a href="https://www.vrfocus.com/" target="_blank" rel="noreferrer noopener">source</a>]</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Natural feature tracking technology:&nbsp;</strong>It may be used to track rigid objects in a maintenance or assembly job. A multistage tracking algorithm is used to estimate the motion of an object more accurately. Marker tracking is used, as an alternative, alongside calibration techniques.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The overlaying of virtual 3D objects and animations on real-world objects is based on their geometrical relationship.&nbsp;Extended face-tracking cameras are now available on smartphones such as iPhone XR which has TrueDepth cameras to allow better AR experiences.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3>Devices And Components Of AR</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>Kinect AR Camera:</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":132226,"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="https://www.softwaretestinghelp.com/wp-content/qa/uploads/2020/06/Kinect-AR-Camera.png"><img src="https://www.softwaretestinghelp.com/wp-content/qa/uploads/2020/06/Kinect-AR-Camera.png" alt="Kinect AR Camera" class="wp-image-132226"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><em>[image<a href="https://blog.robotiq.com/" target="_blank" rel="noreferrer noopener">&nbsp;source</a>]</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Cameras and sensors:&nbsp;</strong>This includes AR cameras or other cameras,&nbsp;<strong>for instance,</strong>&nbsp;on smartphones, take 3D images of real-world objects to send them for processing. Sensors collect data about the user’s interaction with the app and virtual objects and send them for processing.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Processing devices:&nbsp;</strong>AR smartphones, computers, and special devices use graphics, GPUs, CPUs, flash memory, RAM, Bluetooth, WiFi, GPS, etc to process the 3D images and sensor signals. They may measure speed, angle, orientation, direction, etc.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Projector:&nbsp;</strong>AR projection involves projecting generated simulations on AR headset lenses or other surfaces for viewing. This employs a miniature projector.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Here is a video: First smartphone AR projector</strong><br>https://www.youtube.com/embed/0hHtGglpvAM</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Reflectors:&nbsp;</strong>Reflectors such as mirrors are used on AR devices to help human eyes to view virtual images. An array of small curved mirrors or double-sided mirrors can be used to reflect light to the AR camera and the user’s eye, mostly to properly align the image.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Mobile devices:&nbsp;</strong>Modern smartphones are very applicable for AR because they contain integrated GPS, sensors, cameras, accelerometers, gyroscopes, digital compasses, displays, and GPU/CPUs. Further, AR apps can be installed on mobile devices for mobile AR experiences.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>The below image is an example which shows AR on iPhone X:</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":132227,"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="https://www.softwaretestinghelp.com/wp-content/qa/uploads/2020/06/AR-on-iPhone.jpg"><img src="https://www.softwaretestinghelp.com/wp-content/qa/uploads/2020/06/AR-on-iPhone.jpg" alt="AR on iPhone" class="wp-image-132227"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><em>[image&nbsp;<a href="https://www.apple.com/" target="_blank" rel="noreferrer noopener">source</a>]</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Head-Up Display or HUD:&nbsp;</strong>A special device that projects AR data to a transparent display for viewing. It was employed first in the training of military but now it is used in aviation, automobile, manufacturing, sports, etc.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>AR glasses also called smart glasses:&nbsp;</strong>Smart glasses are for displaying notifications&nbsp;<strong>for instance,</strong>&nbsp;from smartphones. They include Google Glasses, Laforge AR eyewear, and Laster See-Thru, among others.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>AR contact lenses (or smart lenses):&nbsp;</strong>These are worn to be in contact with the eye. Manufacturers such as Sony are working on lenses with additional features such as the capability to take photos or store data.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>AR contact lenses are worn in contact with the eye:</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":132228,"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="https://www.softwaretestinghelp.com/wp-content/qa/uploads/2020/06/AR-contact-lenses.jpg"><img src="https://www.softwaretestinghelp.com/wp-content/qa/uploads/2020/06/AR-contact-lenses.jpg" alt="AR contact lenses" class="wp-image-132228"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><em>[image<a href="https://singularityhub.com/" target="_blank" rel="noreferrer noopener">&nbsp;source</a>]</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Virtual retinal displays:&nbsp;</strong>They create images by projecting laser lights into the human eye.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Here is a Video: Virtual Retinal Display</strong><br>https://www.youtube.com/embed/qHJvinP50qI</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3>Benefits Of AR</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>Let us see some benefits of AR for your business or organization and how to integrate it:</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>Integration or adoption depends on your use case and application. You may want to employ it for monitoring maintenance and production work, perform virtual walkthroughs of real estate property, advertise products, boost remote design, etc.</li><li>Today, virtual fitting rooms can help decrease purchase returns and improve purchase decisions made by buyers.</li><li>Salespeople can produce and publish interesting branded AR content and insert ads in them so people can get to know their products when they watch the content. AR improves engagement.</li><li>In manufacturing, AR markers on images of manufacturing equipment help project managers to monitor work remotely. It reduces the need to use digital maps and plants.&nbsp;<strong>For instance,</strong>&nbsp;a device or machine can be pointed on location to determine if it will fit on position.</li><li>Immersive real-life simulations are delivering pedagogical benefits to learners. Simulations in game-based learning and training come in with psychological benefits and increase empathy among learners as shown by researchers.</li><li>Medical students can use AR and VR simulations to try first and as many surgeries as possible without hefty budgets or unnecessary injuries to patients, all with immersion and near-real experiences.</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><strong>The below image depicts how AR is applied in medical training for a surgery practice:</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":132229,"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="https://www.softwaretestinghelp.com/wp-content/qa/uploads/2020/06/AR-is-applied-in-medical-training-for-surgery-practice..jpg"><img src="https://www.softwaretestinghelp.com/wp-content/qa/uploads/2020/06/AR-is-applied-in-medical-training-for-surgery-practice..jpg" alt="AR is applied in medical training for surgery practice." class="wp-image-132229"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><em>[image&nbsp;<a href="https://arvrjourney.com/" target="_blank" rel="noreferrer noopener">source</a>]</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>Using AR, future astronauts can try their first or next space mission.</li><li>AR enables virtual tourism. AR apps, for instance, can provide directions to desirable destinations, translate the signs on the street, and provide information on sight-seeing. A&nbsp;<strong>good example</strong>&nbsp;is a GPS navigation app. AR content enables the production of new cultural experiences, for instance, where additional reality is added to museums.</li><li>Augmented reality is expected to&nbsp;<a href="https://techcrunch.com/2015/04/06/augmented-and-virtual-reality-to-hit-150-billion-by-2020/" target="_blank" rel="noreferrer noopener">expand to $150 billion by 2020</a>. It is expanding more than virtual reality with $120 billion compared to $30 billion. AR-enabled devices are expected to reach 2.5 billion by 2023.</li><li>Developing own branded applications is one of the most common ways that the companies are using to engage with AR technology. Companies can still place ads on third-party AR platforms and content, buy licenses on developed software, or rent spaces for their AR content and audiences.</li><li>Developers can use AR development platforms such as ARKit and ARCore to develop applications and integrate AR into business applications.</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2>Augmented Reality Vs Virtual Reality Vs Mixed Reality</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Augmented reality is similar to virtual reality and mixed reality where both attempt to generate 3D virtual simulations of real-world objects. Mixed reality mixes real and simulated objects.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>All the cases above use sensors and markers to track the position of virtual and real-world objects. AR uses the sensors and markers to detect the position of real-world objects and then to determine the location of simulated ones. The AR renders an image to project to the user. In VR, which also employs math algorithms, the simulated world will then react as per the user’s head and eye movements.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>However, while VR isolates the user from the real world to completely immerse them into simulated worlds, AR is partially immersive.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em><strong>=&gt; Recommended Reading –<a href="https://www.softwaretestinghelp.com/ar-vs-vr-comparison/" target="_blank" rel="noreferrer noopener">&nbsp;AR Vs VR: A Comparison</a></strong></em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Mixed reality combines both AR and VR. It involves the interaction of both the real world and virtual objects.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Augmented Reality Applications</h2>
+<!-- /wp:heading -->
+
+<!-- wp:table -->
+<figure id="tablepress-1469" class="wp-block-table"><table><thead><tr><th>Application</th><th>Description/explanation</th></tr></thead><tbody><tr><td><strong>Gaming</strong></td><td>AR allows for better gaming experiences as gaming grounds are being moved from virtual spheres to include real-life experiences where players can perform real-life activities to play.</td></tr><tr><td><strong>Retail and Advertisement</strong></td><td>AR can improve customer experiences by presenting customers with 3D models of products and helping them make better choices by giving them virtual walkthroughs of products such as in a real estate.<br>It can be used to lead customers to virtual stores and rooms. Customers can overlay the 3D items on their spaces such as when buying furniture to select items best suitable to match their spaces – regarding size, shape, color, and type.<br>In advertising, ads can be included in AR content to help companies popularize their content to viewers.</td></tr><tr><td><strong>Manufacturing and Maintenance</strong></td><td>In maintenance, repair technicians can be directed remotely by professionals to do repairs and maintenance works while on the ground using AR apps without having the professionals travel on the location. This can be useful in places where it is hard to travel to the location.</td></tr><tr><td><strong>Education</strong></td><td>AR interactive models are used for training and learning.</td></tr><tr><td><strong>Military</strong></td><td>AR assists in advanced navigation and to help mark objects in real-time.</td></tr><tr><td><strong>Tourism</strong></td><td>AR, in addition to placing ads on AR content, can be used for navigation, providing data on destinations, directions, and sightseeing.</td></tr><tr><td><strong>Medicine/Healthcare</strong></td><td>AR can help train healthcare workers remotely, help in monitoring health situations, and for diagnosing patients.</td></tr></tbody></table></figure>
+<!-- /wp:table -->
+
+<!-- wp:heading {"level":3} -->
+<h3>AR Example In Real Life</h3>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><li>Elements 4D is a chemistry learning application that employs AR to make chemistry more fun and engaging. With it, students make paper cubes from the element blocks and place them in front of their AR cameras on their devices. They can then see representations of their chemical elements, names, and atomic weights. Students can bring together the cubes to see if they react and to see chemical reactions.</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:image {"id":132235,"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="https://www.softwaretestinghelp.com/wp-content/qa/uploads/2020/06/Elements-4D.jpg"><img src="https://www.softwaretestinghelp.com/wp-content/qa/uploads/2020/06/Elements-4D.jpg" alt="Elements 4D" class="wp-image-132235"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><em>[image&nbsp;<a href="https://technabob.com/" target="_blank" rel="noreferrer noopener">source</a>]</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>Google Expeditions, where Google uses cardboards, already allows the students from across the world to do virtual tours for history, religion, and geography studies.</li><li>Human Anatomy Atlas lets students explore over 10,000 3D human body models in seven languages, to let students learn the parts, how they work, and to improve their knowledge.</li><li>Touch Surgery simulates surgery practice. In partnership with DAQRI, an AR company, medical institutions can see their students practicing surgery on virtual patients.</li><li>IKEA Mobile App is famous in real estate and home product walkthroughs and testing. Other apps include Nintendo’s Pokemon Go App for gaming.</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><em><strong>Learn more =&gt;&gt;&nbsp;<a href="https://www.softwaretestinghelp.com/augmented-reality-examples/" target="_blank" rel="noreferrer noopener">Augmented Reality Application Examples</a></strong></em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3>Developing And Designing For AR</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>AR development platforms are platforms on which you can develop or code AR apps.&nbsp;<strong>Examples</strong>&nbsp;include ZapWorks, ARToolKit, MAXST for Windows AR and smartphone AR, DAQRI, SmartReality, ARCore by Google, Windows’ Mixed Reality AR platform, Vuforia, and ARKit by Apple. Some allow the development of apps for mobile, others for P.C., and on different operating systems.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>AR development platforms allow developers to give apps different features such as support for other platforms such as Unity, 3D tracking, text recognition, creation of 3D maps, cloud storage, support for single and 3D cameras, support for smart glasses,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Different platforms allow the development of marker-based and/or location-based apps. Features to consider when selecting a platform include cost, platform support, image recognition support, 3D recognition, and tracking is a most important feature, support for third-party platforms such as Unity from where users can import and export AR projects and integrate with other platforms, cloud or local storage support, GPS support, SLAM support, etc.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The AR apps developed with these platforms support a myriad of features and capabilities. They may allow content to be viewed with one or a range of AR glasses that have pre-made AR objects, support for reflection mapping where objects have reflections, real-time image tracking, 2D and 3D recognition,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Some SDK or software development kits allow the development of apps by drag and drop method while others require knowledge in coding.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Some AR apps allow users to develop from scratch, upload, and edit, own AR content.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Conclusion</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>In this augmented reality, we learned that technology allows the overlaying of virtual objects in real-world environments or objects. It uses a combination of technologies including SLAM, depth tracking, and natural feature tracking, and object recognition, among others.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>This augmented reality tutorial dwelt on introducing AR, the basics of its operation, the technology of AR, and its application.&nbsp;We finally considered the best practice for those interested in integrating and developing for AR.</p>
+<!-- /wp:paragraph -->
